@@ -1,5 +1,5 @@
 # Uruguay Mapping Projects
-	This repository tracks the various mapping projects throughout Uruguay that are managed by [Kaart](https://github.com/KaartGroup/Uruguay/blob/master/KAART.md "Kaart").
+This repository tracks the various mapping projects throughout Uruguay that are managed by [Kaart](https://github.com/KaartGroup/Uruguay/blob/master/KAART.md "Kaart").
 
 ## Projects
 
